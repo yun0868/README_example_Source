@@ -1,10 +1,11 @@
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
-
+![1](https://github.com/user-attachments/assets/101d9597-829e-41e6-b8e6-e9c5c925296d)
 ---
 
 ***
 
 ___
+
 
 
 *기울기1*
